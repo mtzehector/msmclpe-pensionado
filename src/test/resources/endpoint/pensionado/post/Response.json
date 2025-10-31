@@ -1,0 +1,20 @@
+{
+    "nombre": "Antonio",
+    "primerApellido": "Sampayo",
+    "segundoApellido": "Vargas",
+    "correoElectronico": "antonio.sampayo@softtek.com",
+    "telefono": "5545334567",
+    "sexo": null,
+    "edad": null,
+    "nss": "31238798753",
+    "grupoFamiliar": "01",
+    "curp": "SAVA790909HDFMRN27",
+    "delegacion": "06",
+    "subDelegacion": "01",
+    "entidadFederativa": {
+        "cveEntidadFederativa": "09",
+        "descEntidadFederativa": null
+    },
+    "cuentaClabe": "00100200300400500601",
+    "fechaNacimiento": null
+}
